@@ -30,7 +30,7 @@
 <!-- [![Discord Presence](https://api.lanyard.rest/v1/users/1433435692272189470)](https://discord.com/users/1433435692272189470)  -->
 
   
-<sub>*“Keep building. Keep breaking. That’s how you grow.” – Dev Bhakat*</sub>
+<sub>*“Keep building. Keep breaking. That’s how you grow.” – aryan*</sub>
 
 </div>
 
