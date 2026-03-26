@@ -8,7 +8,7 @@
 - Name: **Aryan kumar** (You can call me **Aryan** or **vixo**)
 
 - A **School Student** from **India** 🇮🇳  
-- Age: **1**
+- Age: **15**
 
 - Good with **Python**, **HTML**, **CSS**  
 - Familiar with **Windows**
